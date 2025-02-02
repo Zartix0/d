@@ -1,4 +1,4 @@
-# 🔰 Fake Safeguard Bot
+# 🔰 Free Fake Safeguard Bot
 
 ## 💬 How to Set Up:
 Simply DM **@FakeVerificationsBot** on Telegram to set it up. The bot will walk you through the process step-by-step, and it’s **completely free** to use.
